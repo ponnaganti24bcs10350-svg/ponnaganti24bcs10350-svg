@@ -62,33 +62,59 @@ exploring:
 </td>
 </tr>
 </table>
-
 # 01 / ENGINEERING STACK
 
 <div align="center">
 
-### LANGUAGES
+### `LANGUAGES`
 
-<img src="https://skillicons.dev/icons?i=ts,js,go,sql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=ts,js,go&theme=dark" />
 
-### FRONTEND
+<p>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind&theme=dark"/>
+### `FRONTEND ENGINEERING`
 
-### BACKEND & DATABASES
+<img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,prisma&theme=dark"/>
+<p>
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+</p>
 
-### DEVOPS & CLOUD
+### `BACKEND ENGINEERING`
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
+
+<p>
+<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Authentication_%26_Authorization-7C3AED?style=for-the-badge"/>
+</p>
+
+### `DATABASE SYSTEMS`
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark"/>
+
+### `DEVOPS & CLOUD INFRASTRUCTURE`
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,githubactions,terraform&theme=dark"/>
 
-### MONITORING & TOOLS
+<p>
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,grafana,prometheus,postman,vscode&theme=dark"/>
+### `MONITORING & DEVELOPER TOOLS`
+
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,git,github,vscode&theme=dark"/>
+
+<p>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/kubectl-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
 
 </div>
-
 # 02 / SELECTED ENGINEERING PROJECTS
 
 Three projects. Three different engineering challenges.
@@ -186,7 +212,30 @@ A full-stack application focused on rental discovery, roommate compatibility and
 <img src="https://img.shields.io/badge/06-System%20Design-D97706?style=for-the-badge"/>
 
 </div>
-
 # 04 / GITHUB ANALYTICS
 
-<div
+<div align="center">
+
+### `DEVELOPER STATISTICS`
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ponnaganti24bcs10350-svg&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponnaganti24bcs10350-svg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
+
+<br/><br/>
+
+### `CODING CONSISTENCY`
+
+<img width="75%" src="https://streak-stats.demolab.com/?user=ponnaganti24bcs10350-svg&theme=tokyonight&hide_border=true&mode=weekly" />
+
+<br/><br/>
+
+### `CONTRIBUTION ACTIVITY`
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ponnaganti24bcs10350-svg&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=ec4899&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+
+<br/>
+
+*Consistency is built one commit at a time.*
+
+</div>
