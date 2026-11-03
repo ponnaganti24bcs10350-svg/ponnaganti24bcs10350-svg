@@ -212,32 +212,36 @@ A full-stack application focused on rental discovery, roommate compatibility and
 <img src="https://img.shields.io/badge/06-System%20Design-D97706?style=for-the-badge"/>
 
 </div>
-## 04 / GITHUB ANALYTICS
 
-<div align="center">
+<h2 align="center">04 / BEYOND THE CODE</h2>
 
-### DEVELOPER OVERVIEW
+<p align="center">
+  <i>"Great software isn't just about writing code. It's about solving problems that matter."</i>
+</p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ponnaganti24bcs10350-svg&theme=tokyonight" width="100%" alt="GitHub contribution overview"/>
+<p align="center">
+  I enjoy turning complex problems into simple, reliable, and meaningful software.
+  I believe in understanding the problem before choosing the technology,
+  writing clean and maintainable code, and building systems that can grow.
+</p>
 
-<br/>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>⚙️ Problem Solving</h3>
+      Breaking down complex problems and finding practical solutions.
+    </td>
+    <td align="center" width="33%">
+      <h3>🏗️ Building Systems</h3>
+      Creating scalable applications with thoughtful architecture.
+    </td>
+    <td align="center" width="33%">
+      <h3>🚀 Continuous Growth</h3>
+      Exploring new technologies and improving through hands-on building.
+    </td>
+  </tr>
+</table>
 
-### LANGUAGE DISTRIBUTION
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ponnaganti24bcs10350-svg&theme=tokyonight" width="49%" alt="Languages by repositories"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ponnaganti24bcs10350-svg&theme=tokyonight" width="49%" alt="Most used commit languages"/>
-
-<br/><br/>
-
-### ACCOUNT STATISTICS
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ponnaganti24bcs10350-svg&theme=tokyonight" width="49%" alt="GitHub statistics"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ponnaganti24bcs10350-svg&theme=tokyonight&utcOffset=5.5" width="49%" alt="Productive coding time"/>
-
-<br/><br/>
-
-*Building consistently. Learning continuously.*
-
-</div>
+<p align="center">
+  <b>Think deeply. Build thoughtfully. Keep improving.</b>
+</p>
