@@ -7,9 +7,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:0F172A,45:312E81,100:9333EA&text=SRIVIDYA.&fontColor=FFFFFF&fontSize=72&fontAlignY=42&desc=SOFTWARE%20ENGINEER%20%7C%20BUILDER%20%7C%20PROBLEM%20SOLVER&descSize=15&descAlignY=68&animation=fadeIn"/>
 
 <p align="center">
-  <img src="./assets/developer-walking-across.gif"
-       width="100%"
-       alt="Walking developer animation" />
+  <img
+    src="./developer-walking-across.gif"
+    width="100%"
+    alt="Walking developer animation"
+  />
 </p>
 
 <br/>
