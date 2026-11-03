@@ -197,51 +197,73 @@ A full-stack application focused on rental discovery, roommate compatibility and
 </tr>
 </table>
 
-# 03 / ENGINEERING INTERESTS
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/01-Backend%20Architecture-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/02-API%20Engineering-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/03-Database%20Design-0891B2?style=for-the-badge"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/04-DevOps%20%26%20Cloud-059669?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/05-AI%20%26%20MCP-DB2777?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/06-System%20Design-D97706?style=for-the-badge"/>
-
-</div>
-
-<h2 align="center">04 / BEYOND THE CODE</h2>
+<h2 align="left">03 / ENGINEERING INTERESTS</h2>
 
 <p align="center">
-  <i>"Great software isn't just about writing code. It's about solving problems that matter."</i>
+  <img src="https://img.shields.io/badge/01-FRONTEND_ENGINEERING-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/02-BACKEND_ENGINEERING-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/03-DATABASES_%26_SQL-0891B2?style=for-the-badge" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/04-DEVOPS_%26_CLOUD-059669?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/05-CI%2FCD_%26_MONITORING-D97706?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/06-AI_%26_MCP-DB2777?style=for-the-badge" />
 </p>
 
 <p align="center">
-  I enjoy turning complex problems into simple, reliable, and meaningful software.
-  I believe in understanding the problem before choosing the technology,
-  writing clean and maintainable code, and building systems that can grow.
+  <b>TECHNOLOGIES I WORK WITH</b>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,html,css,redux,nodejs,express,go,postgres,mysql,mongodb,prisma,docker,kubernetes,aws,terraform,linux,githubactions,prometheus,grafana" />
+</p>
+
+<br/>
+
+<h2 align="left">04 / BEYOND THE CODE</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ENGINEERING_MINDSET-THINK_%E2%80%A2_BUILD_%E2%80%A2_IMPROVE-8B5CF6?style=for-the-badge&labelColor=161B22" />
 </p>
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <h3>⚙️ Problem Solving</h3>
-      Breaking down complex problems and finding practical solutions.
+    <td align="center" bgcolor="#161B22">
+      <br/>
+      <h2>💡</h2>
+      <h3>THINK</h3>
+      <p>Understand the problem.<br/>Break down complexity.<br/>Choose the right approach.</p>
+      <br/>
     </td>
-    <td align="center" width="33%">
-      <h3>🏗️ Building Systems</h3>
-      Creating scalable applications with thoughtful architecture.
+    <td align="center" bgcolor="#161B22">
+      <br/>
+      <h2>⚡</h2>
+      <h3>BUILD</h3>
+      <p>Turn ideas into working software.<br/>Write clean code.<br/>Build reliable applications.</p>
+      <br/>
     </td>
-    <td align="center" width="33%">
-      <h3>🚀 Continuous Growth</h3>
-      Exploring new technologies and improving through hands-on building.
+    <td align="center" bgcolor="#161B22">
+      <br/>
+      <h2>🚀</h2>
+      <h3>IMPROVE</h3>
+      <p>Learn by building.<br/>Refine solutions.<br/>Keep getting better.</p>
+      <br/>
     </td>
   </tr>
 </table>
 
+<br/>
+
 <p align="center">
-  <b>Think deeply. Build thoughtfully. Keep improving.</b>
+  <i>"I believe the best way to understand technology is to build with it."</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CLEAN_CODE-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/REAL_WORLD_PROJECTS-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/CONTINUOUS_LEARNING-059669?style=flat-square" />
+</p>
+
+<p align="center">
+  <b>Curious by nature. Engineer by practice.</b>
 </p>
