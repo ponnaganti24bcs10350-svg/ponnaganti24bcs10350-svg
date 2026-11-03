@@ -26,7 +26,6 @@
     alt="Walking developer animation"
   />
 </p> 
----
 
 <table>
 <tr>
