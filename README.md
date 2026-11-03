@@ -9,10 +9,7 @@
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+products+that+solve+real+problems.;Engineering+backends+and+scalable+systems.;Exploring+AI%2C+MCP+and+intelligent+applications.;Turning+ideas+into+working+software." />
-
 <br/><br/>
-
-
 
 <a href="https://github.com/ponnaganti24bcs10350-svg">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -24,7 +21,7 @@
 </div>
 <p align="center">
   <img
-    src="./developer-walking-across.gif"
+    src="./developer-walking-slower.gif"
     width="100%"
     alt="Walking developer animation"
   />
