@@ -212,30 +212,32 @@ A full-stack application focused on rental discovery, roommate compatibility and
 <img src="https://img.shields.io/badge/06-System%20Design-D97706?style=for-the-badge"/>
 
 </div>
-# 04 / GITHUB ANALYTICS
+## 04 / GITHUB ANALYTICS
 
 <div align="center">
 
-### `DEVELOPER STATISTICS`
+### DEVELOPER OVERVIEW
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ponnaganti24bcs10350-svg&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponnaganti24bcs10350-svg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
-
-<br/><br/>
-
-### `CODING CONSISTENCY`
-
-<img width="75%" src="https://streak-stats.demolab.com/?user=ponnaganti24bcs10350-svg&theme=tokyonight&hide_border=true&mode=weekly" />
-
-<br/><br/>
-
-### `CONTRIBUTION ACTIVITY`
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ponnaganti24bcs10350-svg&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=ec4899&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ponnaganti24bcs10350-svg&theme=tokyonight" width="100%" alt="GitHub contribution overview"/>
 
 <br/>
 
-*Consistency is built one commit at a time.*
+### LANGUAGE DISTRIBUTION
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ponnaganti24bcs10350-svg&theme=tokyonight" width="49%" alt="Languages by repositories"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ponnaganti24bcs10350-svg&theme=tokyonight" width="49%" alt="Most used commit languages"/>
+
+<br/><br/>
+
+### ACCOUNT STATISTICS
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ponnaganti24bcs10350-svg&theme=tokyonight" width="49%" alt="GitHub statistics"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ponnaganti24bcs10350-svg&theme=tokyonight&utcOffset=5.5" width="49%" alt="Productive coding time"/>
+
+<br/><br/>
+
+*Building consistently. Learning continuously.*
 
 </div>
