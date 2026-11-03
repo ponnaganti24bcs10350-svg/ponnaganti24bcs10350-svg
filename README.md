@@ -12,13 +12,7 @@
 
 <br/><br/>
 
-<p align="center">
-  <img
-    src="./developer-walking-across.gif"
-    width="100%"
-    alt="Walking developer animation"
-  />
-</p> 
+
 
 <a href="https://github.com/ponnaganti24bcs10350-svg">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -28,7 +22,13 @@
 <img src="https://img.shields.io/badge/LOCATION-India-0EA5E9?style=flat-square"/>
 
 </div>
-
+<p align="center">
+  <img
+    src="./developer-walking-across.gif"
+    width="100%"
+    alt="Walking developer animation"
+  />
+</p> 
 ---
 
 <table>
