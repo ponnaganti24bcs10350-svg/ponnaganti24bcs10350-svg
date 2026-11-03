@@ -39,7 +39,10 @@ My approach to engineering is simple:
 
 </td>
 <td width="40%" valign="top">
-
+     
+<p align="center">
+  <img src="./assets/developer-walk.gif" width="120" />
+</p>
 ## ◈ QUICK PROFILE
 
 ```yaml
